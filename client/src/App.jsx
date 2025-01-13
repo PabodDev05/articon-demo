@@ -4,7 +4,7 @@ import Home from './pages/Home';
 import DallEStudio from './pages/Dall-E-Studio';
 import Navbar from './components/Navbar';
 import Footer from './components/Footer';
-import PricingPage from './pages/pricing';
+import PricingPage from './pages/Pricing';
 import ClipDropStudio from './pages/Clip-Drop-Studio';
 
 function App() {
